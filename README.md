@@ -72,7 +72,11 @@ $ npm run test
 
 # e2e tests
 $ npm run test:e2e
+<<<<<<< HEAD
 ```
+=======
+
+>>>>>>> 5b65daff23910ebfaa36bbe8d9bd9c3c19678be4
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
