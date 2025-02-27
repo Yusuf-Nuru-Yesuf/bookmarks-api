@@ -22,6 +22,25 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+# Bookmarks API
+
+A NestJS-based API for managing user bookmarks. Below you’ll find steps to install, run, and test this project.
+
+## Prerequisites
+
+Before running this project, make sure you have the following installed:
+
+-   [Node.js](https://nodejs.org/)
+-   [Docker](https://www.docker.com/) (optional, for containerized deployment)
+
+You will also need to create a `.env` file in the root directory with the following variables:
+- DATABASE_URL=
+- JWT_SECRET=
+- POSTGRES_USER=
+- POSTGRES_PASSWORD=
+- POSTGRES_DB=
+
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
